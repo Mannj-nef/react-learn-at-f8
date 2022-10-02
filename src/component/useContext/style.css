@@ -1,0 +1,14 @@
+.text-dark-moon {
+  padding: 10px;
+  border-radius: 10px;
+  transition: all 0.2s ease-in;
+}
+.dark {
+  background-color: #333;
+  color: #fff;
+}
+
+.light {
+  background-color: #fff;
+  color: #333;
+}

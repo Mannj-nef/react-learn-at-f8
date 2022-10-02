@@ -1,0 +1,28 @@
+.todo-list {
+  max-width: 150px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+}
+.todo-item {
+  cursor: pointer;
+}
+.todo-remove {
+  cursor: pointer;
+}
+.todo-wrapp {
+  display: flex;
+  height: 30px;
+  outline: none;
+  background-color: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.todo-input {
+  padding: 4px;
+  outline: none;
+  border: none;
+}
+.todo-btn {
+  border: none;
+}
